@@ -47,7 +47,7 @@
     "electron": "5.0.4",
     "electron-installer-windows": "2.0.0",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "ngx-electron": "2.1.1",
     "rxjs": "~6.4.0",
     "rxjs-tslint": "^0.1.3",
